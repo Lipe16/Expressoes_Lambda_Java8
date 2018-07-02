@@ -16,7 +16,7 @@ No java 8+ uma série se técnicas foram adicionadas nativamente como métodos anôn
 		lista.stream().filter(predicate::test)
 						.forEach(System.out::println);
 
-- Usei o eclipse para desenvolver os exemplos deste repositório, acompanhando a partir do "exemplo01.java" fica mais fácil entender os exemplos seguintes. :D
+- Usei o eclipse para desenvolver os exemplos deste repositório, acompanhando a partir do "src/ferreira/filipe/exemplo01.java" fica mais fácil entender os exemplos seguintes. :D
 						
 ![Java](https://image.ibb.co/moFZrd/java_lambda_expression.png)
 						
