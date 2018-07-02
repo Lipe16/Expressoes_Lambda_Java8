@@ -1,8 +1,8 @@
-# Expressões Lambdas no Java
+# ExpressÃµes Lambdas no Java
 
-## Expressões Lambda, permitem ao programador Java sair do paradigma tradicional da linguagem e usar o paradigma de programação funcional
+## ExpressÃµes Lambda, permitem ao programador Java sair do paradigma tradicional da linguagem e usar o paradigma de programaÃ§Ã£o funcional
 
-No java 8+ uma série se técnicas foram adicionadas nativamente como métodos anônimos, funções especiais com uso de stream, interface funcional com uso de predicate... O resultado disso é: escreva menos e produza mais com implementações mais simples e fáceis de entender.
+No java 8+ uma sÃ©rie de tÃ©cnicas foram adicionadas nativamente como mÃ©todos anÃ´nimos, funÃ§Ãµes especiais com uso de stream, interface funcional com uso de predicate... O resultado disso Ã©: escreva menos e produza mais com implementaÃ§Ãµes mais simples e fÃ¡ceis de entender.
 
 ## EX.: 
 ##### Tradicional
@@ -16,7 +16,7 @@ No java 8+ uma série se técnicas foram adicionadas nativamente como métodos anôn
 		lista.stream().filter(predicate::test)
 						.forEach(System.out::println);
 
-- Usei o eclipse para desenvolver os exemplos deste repositório, acompanhando a partir do "src/ferreira/filipe/exemplo01.java" fica mais fácil entender os exemplos seguintes. :D
+- Usei o eclipse para desenvolver os exemplos deste repositÃ³rio, acompanhando a partir do "src/ferreira/filipe/exemplo01.java" fica mais fÃ¡cil entender os exemplos seguintes. :D
 						
 ![Java](https://image.ibb.co/moFZrd/java_lambda_expression.png)
 						
